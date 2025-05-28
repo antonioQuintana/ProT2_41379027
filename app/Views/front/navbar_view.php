@@ -1,16 +1,4 @@
-<!DOCTYPE html>
-<html lang="es">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link
-      href="assets/css/bootstrap.min.css"
-      rel="stylesheet"/>
-
-    <title>Proyecto Tramo 2</title>
-  </head>
-  <body class="d-flex flex-column min-vh-100">
-    <!--Aca va la barra de navegacion-->
+<!--Barra de navegacion-->
     <nav
       class="navbar navbar-expand-lg"
       style="background-color: #00a800"
@@ -83,18 +71,3 @@
       </div>
     </nav>
     <!--Fin de barra-->
-    <footer class="text-white py-4 pt-4 mt-auto" style="background-color: #00a800">
-
-    <div class="container">  
-    <div class="row">
-        <div class="col text-center">
-          <p class="mb-1">Todos los derechos reservados &copy; 2025</p>
-          <p class="mb-0">Desarrollado por: Quintana Ricardo José Antonio :)</p>
-        </div>
-      </div>
-      </div>
-    </footer>
-        <!--Codigo para java script-->
-    <script src="assets/js/bootstrap.bundle.min.js"></script>
-  </body>
-</html>
