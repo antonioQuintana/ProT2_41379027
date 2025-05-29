@@ -24,15 +24,13 @@
         <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
           <ul class="navbar-nav me-auto mb-2 mb-lg-0">
             <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="#"
-                >Principal</a
-              >
+              <a class="nav-link active" aria-current="page" href='index'>Principal</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link active" href="#">Registrarse</a>
+              <a class="nav-link active" href='registrarse'> Registrarse</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link active" href="#">Ingresar</a>
+              <a class="nav-link active" href='ingresar'> Ingresar</a>
             </li>
             <li class="nav-item dropdown">
               <a
