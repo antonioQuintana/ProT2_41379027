@@ -43,13 +43,13 @@
                 Más info
               </a>
               <ul class="dropdown-menu">
-                <li><a class="dropdown-item" href="#">¿Quienes sómos?</a></li>
+                <li><a class="dropdown-item" href='pilotos'>Pilotos</a></li>
                 <li>
-                  <a class="dropdown-item" href="#">Acerca de nosotros</a>
+                  <a class="dropdown-item" href="#">Mira la F1 EN VIVO</a>
                 </li>
                 <li><hr class="dropdown-divider" /></li>
                 <li>
-                  <a class="dropdown-item" href="#">Contactá con nosotros</a>
+                  <a class="dropdown-item" href='contacta'>Contactá con nosotros</a>
                 </li>
               </ul>
             </li>
