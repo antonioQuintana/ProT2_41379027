@@ -1,5 +1,5 @@
 <div class="container">
-<div class="row my-4">
+<div class="row text-white my-4">
     <h3 class="text-center">Contacta con nosotros</h3>
     <p class="text-center">Si tienes alguna pregunta o necesitas más información, no dudes en contactarnos.</p>
     <h6 class="text-center">Creador de la página web:</h6>
@@ -10,7 +10,7 @@
                 <a href=">" target="_blank">
                     <img src="assets/img/antonio_quintana.jpg" class="card-img-top" alt="Antonio Quintana">
                 </a>
-                <div class="card-body">
+                <div class="card-body ">
                     <h5 class="card-title">Antonio Quintana</h5>
                     <p class="card-text mb-1"><strong>Email:</strong> quintanarijoan@gmail.com </p>
                     <p class="card-text mb-1"><strong>Teléfono:</strong> 3794-395882</p>
@@ -25,7 +25,7 @@
 
 </div><div class="container my-3">
   <div class="row">
-    <h5 class="text-center">Completa el siguiente formulario en linea si desea recibir más informacion</h5>
+    <h5 class="text-center text-white">Completa el siguiente formulario en linea si desea recibir más informacion</h5>
   </div>
 </div>
 

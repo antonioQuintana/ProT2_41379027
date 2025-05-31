@@ -187,7 +187,7 @@ $pilotos = [
 ?>
 
 <div class="container my-5">
-    <h2 class="text-center mb-4">Pilotos F1 - Temporada Actual</h2>
+    <h2 class="text-center text-white mb-4">Pilotos F1 - Temporada Actual</h2>
     <div class="row mb-3">
         <div class="col-md-4 mx-auto">
             <select id="ordenarPilotos" class="form-select">

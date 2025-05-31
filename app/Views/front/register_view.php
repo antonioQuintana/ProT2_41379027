@@ -1,6 +1,6 @@
 <!-- Formulario de registro-->
 <section id="registrarse" class="container my-5">
-  <h3 class="text-center mb-4">Registrarse</h3>
+  <h3 class="text-center text-white mb-4">Registrarse</h3>
   <form method="post" class="border rounded-3 bg-light p-4 shadow mx-auto" style="max-width: 500px;">
     <div class="mb-3">
       <label for="nombre" class="form-label">Nombre</label>

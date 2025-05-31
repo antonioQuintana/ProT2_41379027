@@ -6,7 +6,7 @@
     >
       <div class="container-fluid">
         <div>
-          <a class="navbar-brand" href="#">
+          <a class="navbar-brand" href="https://moodle-telco.unne.edu.ar/login/index.php">
             <img src="assets/img/Logo-1.png" height="50" />
           </a>
         </div>
@@ -45,7 +45,7 @@
               <ul class="dropdown-menu">
                 <li><a class="dropdown-item" href='pilotos'>Pilotos</a></li>
                 <li>
-                  <a class="dropdown-item" href="#">Mira la F1 EN VIVO</a>
+                  <a class="dropdown-item" href="https://alangulo.tv/canal/multi-f1/">Mira la F1 EN VIVO</a>
                 </li>
                 <li><hr class="dropdown-divider" /></li>
                 <li>

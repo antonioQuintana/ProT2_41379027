@@ -1,6 +1,6 @@
 <!-- Formulario de Login -->
 <section id="login" class="container my-5">
-  <h3 class="text-center mb-4">Iniciar sesión</h3>
+  <h3 class="text-center text-white mb-4">Iniciar sesión</h3>
   <form method="post" class="border rounded-3 bg-light p-4 shadow mx-auto" style="max-width: 500px;">
     <div class="mb-3">
       <label for="login-correo" class="form-label">E-mail</label>
